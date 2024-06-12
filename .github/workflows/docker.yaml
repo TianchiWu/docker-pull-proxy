@@ -8,9 +8,9 @@ on:
 
 env:
   REGISTRY: registry.cn-hangzhou.aliyuncs.com
-  ALIYUN_REGISTRY_USER: "${{ secrets.ALIYUN_REGISTRY_USER }}"
-  ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
-  MM_NOTIFY_URL: "${{ secrets.MM_NOTIFY_URL }}"
+  ALIYUN_REGISTRY_USER: "吴天池tianchiwu"
+  ALIYUN_REGISTRY_PASSWORD: "Wtc0229,./"
+  MM_NOTIFY_URL: "tcwu"
 
 jobs:
 
